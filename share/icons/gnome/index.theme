@@ -1,0 +1,586 @@
+[Icon Theme]
+Name=GNOME
+Name[ar]=جنوم
+Name[az]=GNOME
+Name[be]=GNOME
+Name[bg]=GNOME
+Name[bn]=গুহ্নোম
+Name[bs]=GNOME
+Name[ca]=GNOME
+Name[cs]=GNOME
+Name[cy]=GNOME
+Name[da]=Gnome
+Name[de]=GNOME
+Name[el]=GNOME
+Name[en_CA]=GNOME
+Name[en_GB]=GNOME
+Name[es]=Gnome
+Name[et]=GNOME
+Name[eu]=GNOME
+Name[fi]=GNOME
+Name[fr]=GNOME
+Name[gu]=જીનોમ
+Name[he]=GNOME
+Name[hi]=गनोम
+Name[hr]=GNOME
+Name[hu]=GNOME
+Name[is]=GNOME
+Name[it]=GNOME
+Name[ja]=GNOME
+Name[ko]=그놈
+Name[lt]=GNOME
+Name[mk]=Гном
+Name[mn]=ГНОМЕ
+Name[ms]=GNOME
+Name[nb]=GNOME
+Name[ne]=जीनोम
+Name[nl]=GNOME
+Name[nn]=GNOME
+Name[no]=GNOME
+Name[pa]=ਗਨੋਮ
+Name[pl]=GNOME
+Name[pt]=GNOME
+Name[pt_BR]=GNOME
+Name[ro]=GNOME
+Name[ru]=Среда Гном
+Name[sk]=GNOME
+Name[sq]=GNOME
+Name[sr]=Гном
+Name[sr@Latn]=Gnom
+Name[sv]=GNOME
+Name[ta]=GNOME
+Name[th]=GNOME
+Name[tk]=GNOME
+Name[tr]=GNOME
+Name[uk]=GNOME
+Name[vi]=GNOME
+Name[zh_CN]=GNOME
+Name[zh_TW]=GNOME
+Comment=Default GNOME Theme
+Comment[ar]=تيمة جنوم الإفتراضية
+Comment[az]=Ön Qurğulu Gnome Örtüyü
+Comment[be]=Дапомная тэма GNOME
+Comment[bg]=Тема на GNOME по подразбиране
+Comment[bn]=ডিফল্ট গুহ্নোম থিম
+Comment[bs]=Uobičajena GNOME Tema
+Comment[ca]=Tema del GNOME per defecte
+Comment[cs]=Implicitní téma GNOME
+Comment[cy]=Thema diofyn GNOME
+Comment[da]=Standardtema til Gnome
+Comment[de]=GNOME-Vorgabethema
+Comment[el]=Εξ ορισμού θέμα του Gnome
+Comment[en_CA]=Default GNOME Theme
+Comment[en_GB]=Default GNOME Theme
+Comment[es]=Tema predeterminado de Gnome
+Comment[et]=Gnome'i vaiketeema
+Comment[eu]=Lehenetsitako GNOMEren gaia
+Comment[fi]=Gnomen oletusteema
+Comment[fr]=Thème GNOME par défaut
+Comment[gu]=મૂળભૂત જીનોમ થીમ
+Comment[he]=ערכת הנושא ברירת המחדל של Gnome
+Comment[hi]=डिफ़ॉल्ट गनोम प्रसंग
+Comment[hr]=Uobičajena tema GNOME sustava
+Comment[hu]=Alapértelmezett GNOME-téma
+Comment[is]=Sjálfgefið GNOME Þema
+Comment[it]=Tema predefinito di GNOME
+Comment[ja]=デフォルトの GNOME テーマ
+Comment[ko]=기본 그놈 테마
+Comment[lt]=Standartinė GNOME tema
+Comment[mk]=Основна тема на Гном
+Comment[mn]=ГНОМЕ-стандарт загварууд
+Comment[ms]=Tema GNOME Default
+Comment[nb]=Forvalgt GNOME tema
+Comment[ne]=निर्धारित  थीम रङ्ग प्र_योग गर्नुस
+Comment[nl]=Standaard GNOME-thema
+Comment[nn]=Vanleg GNOME-drakt
+Comment[no]=Forvalgt GNOME tema
+Comment[pa]=ਮੂਲ ਗਨੋਮ ਸਰੂਪ
+Comment[pl]=Domyślny motyw GNOME
+Comment[pt]=Tema GNOME por Omissão
+Comment[pt_BR]=Tema Padrão do GNOME
+Comment[ro]=Temă implicită GNOME
+Comment[ru]=Стандартная тема среды Гном
+Comment[sk]=Štandardná téma GNOME
+Comment[sq]=Tema e prezgjedhur e GNOME
+Comment[sr]=Подразумевана тема Гнома
+Comment[sr@Latn]=Podrazumevana tema Gnoma
+Comment[sv]=Standardtema för GNOME
+Comment[ta]=முன்னிருப்பு GNOME பொருள்
+Comment[th]=ชุดตกแต่งปริยายของ Gnome
+Comment[tk]=GNOMEniň oň bellenen temi
+Comment[tr]=Öntanımlı Gnome Teması
+Comment[uk]=Типова тема середовища GNOME
+Comment[vi]=Sắc thái GNOME Mặc Định
+Comment[zh_CN]=GNOME 默认主题
+Comment[zh_TW]=預設 GNOME 佈景主題
+Directories=192x192/apps,192x192/devices,192x192/emblems,192x192/filesystems,192x192/mimetypes,96x96/apps,96x96/devices,96x96/emblems,96x96/filesystems,96x96/mimetypes,72x72/apps,72x72/devices,72x72/emblems,72x72/filesystems,72x72/mimetypes,48x48/apps,48x48/devices,48x48/emblems,48x48/filesystems,48x48/mimetypes,48x48/stock/code,48x48/stock/document,48x48/stock/generic,48x48/stock/io,48x48/stock/net,36x36/apps,36x36/devices,36x36/emblems,36x36/filesystems,36x36/mimetypes,36x36/stock/document,36x36/stock/generic,32x32/apps,32x32/filesystems,32x32/mimetypes,32x32/stock/code,32x32/stock/chart,32x32/stock/data,32x32/stock/document,32x32/stock/generic,32x32/stock/io,32x32/stock/media,32x32/stock/net,32x32/stock/object,24x24/apps,24x24/devices,24x24/emblems,24x24/filesystems,24x24/mimetypes,24x24/stock/chart,24x24/stock/code,24x24/stock/data,24x24/stock/document,24x24/stock/form,24x24/stock/generic,24x24/stock/image,24x24/stock/io,24x24/stock/media,24x24/stock/navigation,24x24/stock/net,24x24/stock/object,24x24/stock/table,24x24/stock/text,16x16/apps,16x16/devices,16x16/filesystems,16x16/mimetypes,16x16/stock/chart,16x16/stock/code,16x16/stock/code,16x16/stock/data,16x16/stock/document,16x16/stock/emoticons,16x16/stock/form,16x16/stock/generic,16x16/stock/image,16x16/stock/io,16x16/stock/media,16x16/stock/navigation,16x16/stock/net,16x16/stock/object,16x16/stock/table,16x16/stock/text,12x12/apps,12x12/devices,12x12/emblems,12x12/filesystems,12x12/mimetypes,scalable/apps,scalable/devices,scalable/emblems,scalable/filesystems,scalable/mimetypes
+
+[192x192/apps]
+Size=192
+Context=Applications
+Type=Scalable
+
+[192x192/devices]
+Size=192
+Context=Devices
+Type=Scalable
+
+[192x192/emblems]
+Size=192
+Context=Emblems
+Type=Scalable
+
+[192x192/filesystems]
+Size=192
+Context=FileSystems
+Type=Scalable
+
+[192x192/mimetypes]
+Size=192
+Context=MimeTypes
+Type=Scalable
+
+[96x96/apps]
+Size=96
+Context=Applications
+Type=Scalable
+
+[96x96/devices]
+Size=96
+Context=Devices
+Type=Scalable
+
+[96x96/emblems]
+Size=96
+Context=Emblems
+Type=Scalable
+
+[96x96/filesystems]
+Size=96
+Context=FileSystems
+Type=Scalable
+
+[96x96/mimetypes]
+Size=96
+Context=MimeTypes
+Type=Scalable
+
+[72x72/apps]
+Size=72
+Context=Applications
+Type=Scalable
+
+[72x72/devices]
+Size=72
+Context=Devices
+Type=Scalable
+
+[72x72/emblems]
+Size=72
+Context=Emblems
+Type=Scalable
+
+[72x72/filesystems]
+Size=72
+Context=FileSystems
+Type=Scalable
+
+[72x72/mimetypes]
+Size=72
+Context=MimeTypes
+Type=Scalable
+
+[48x48/apps]
+Size=48
+Context=Applications
+Type=Scalable
+
+[48x48/devices]
+Size=48
+Context=Devices
+Type=Scalable
+
+[48x48/emblems]
+Size=48
+Context=Emblems
+Type=Scalable
+
+[48x48/filesystems]
+Size=48
+Context=FileSystems
+Type=Scalable
+
+[48x48/mimetypes]
+Size=48
+Context=MimeTypes
+Type=Scalable
+
+[48x48/stock/code]
+Size=48
+Context=Stock
+Type=Scalable
+
+[48x48/stock/document]
+Size=48
+Context=Stock
+Type=Scalable
+
+[48x48/stock/generic]
+Size=48
+Context=Stock
+Type=Scalable
+
+[48x48/stock/io]
+Size=48
+Context=Stock
+Type=Scalable
+
+[48x48/stock/net]
+Size=48
+Context=Stock
+Type=Scalable
+
+[36x36/apps]
+Size=36
+Context=Applications
+Type=Scalable
+
+[36x36/devices]
+Size=36
+Context=Devices
+Type=Scalable
+
+[36x36/emblems]
+Size=36
+Context=Emblems
+Type=Scalable
+
+[36x36/filesystems]
+Size=36
+Context=FileSystems
+Type=Scalable
+
+[36x36/mimetypes]
+Size=36
+Context=MimeTypes
+Type=Scalable
+
+[36x36/stock/document]
+Size=36
+Context=Stock
+Type=Scalable
+
+[36x36/stock/generic]
+Size=36
+Context=Stock
+Type=Scalable
+
+[32x32/apps]
+Size=32
+Context=Applications
+Type=Scalable
+
+[32x32/filesystems]
+Size=32
+Context=FileSystems
+Type=Scalable
+
+[32x32/mimetypes]
+Size=32
+Context=MimeTypes
+Type=Scalable
+
+[32x32/stock/code]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/chart]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/data]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/document]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/generic]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/io]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/media]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/net]
+Size=32
+Context=Stock
+Type=Scalable
+
+[32x32/stock/object]
+Size=32
+Context=Stock
+Type=Scalable
+
+[24x24/apps]
+Size=24
+Context=Applications
+Type=Scalable
+
+[24x24/devices]
+Size=24
+Context=Devices
+Type=Scalable
+
+[24x24/emblems]
+Size=24
+Context=Emblems
+Type=Scalable
+
+[24x24/filesystems]
+Size=24
+Context=FileSystems
+Type=Scalable
+
+[24x24/mimetypes]
+Size=24
+Context=MimeTypes
+Type=Scalable
+
+[24x24/stock/chart]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/code]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/data]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/document]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/form]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/generic]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/image]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/io]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/media]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/navigation]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/net]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/object]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/table]
+Size=24
+Context=Stock
+Type=Scalable
+
+[24x24/stock/text]
+Size=24
+Context=Stock
+Type=Scalable
+
+[16x16/apps]
+Size=16
+Context=Applications
+Type=Scalable
+
+[16x16/devices]
+Size=16
+Context=Devices
+Type=Scalable
+
+[16x16/filesystems]
+Size=16
+Context=FileSystems
+Type=Scalable
+
+[16x16/mimetypes]
+Size=16
+Context=MimeTypes
+Type=Scalable
+
+[16x16/stock/chart]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/code]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/data]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/document]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/emoticons]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/form]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/generic]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/image]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/io]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/media]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/navigation]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/net]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/object]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/table]
+Size=16
+Context=Stock
+Type=Scalable
+
+[16x16/stock/text]
+Size=16
+Context=Stock
+Type=Scalable
+
+[12x12/apps]
+Size=12
+Context=Applications
+Type=Scalable
+
+[12x12/devices]
+Size=12
+Context=Devices
+Type=Scalable
+
+[12x12/emblems]
+Size=12
+Context=Emblems
+Type=Scalable
+
+[12x12/filesystems]
+Size=12
+Context=FileSystems
+Type=Scalable
+
+[12x12/mimetypes]
+Size=12
+Context=MimeTypes
+Type=Scalable
+
+[scalable/apps]
+Size=48
+MinSize=1
+MaxSize=256
+Context=Applications
+Type=Scalable
+
+[scalable/devices]
+Size=48
+MinSize=1
+MaxSize=256
+Context=Devices
+Type=Scalable
+
+[scalable/emblems]
+Size=48
+MinSize=1
+MaxSize=256
+Context=Emblems
+Type=Scalable
+
+[scalable/filesystems]
+Size=48
+MinSize=1
+MaxSize=256
+Context=FileSystems
+Type=Scalable
+
+[scalable/mimetypes]
+Size=48
+MinSize=1
+MaxSize=256
+Context=MimeTypes
+Type=Scalable
